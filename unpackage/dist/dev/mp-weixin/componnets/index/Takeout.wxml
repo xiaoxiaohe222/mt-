@@ -1,0 +1,1 @@
+<view class="data-v-071a8626"><block wx:for="{{takeoutData}}" wx:for-item="item" wx:for-index="index" wx:key="index"><takeout-item vue-id="{{'dc353c8e-1-'+index}}" takeout="{{item}}" class="data-v-071a8626" bind:__l="__l"></takeout-item></block></view>

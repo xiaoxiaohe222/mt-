@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-badge": "/node-modules/@dcloudio/uni-ui/lib/uni-badge/uni-badge",
+    "uni-goods-nav": "/node-modules/@dcloudio/uni-ui/lib/uni-goods-nav/uni-goods-nav"
+  }
+}

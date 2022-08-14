@@ -1,0 +1,13 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#006400",
+  "navigationBarTitleText": "下单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "order-header": "/componnets/order/OrderHeader",
+    "order-tabs": "/componnets/order/OrderTabs",
+    "take-order": "/componnets/order/TakeOrder",
+    "info-order": "/componnets/order/InfoOrder",
+    "rating-order": "/componnets/order/RatingOrder"
+  }
+}

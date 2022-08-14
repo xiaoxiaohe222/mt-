@@ -1,0 +1,1 @@
+<view class="tabs data-v-00133a24"><block wx:for="{{tabList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" data-event-params="{{({index})}}" class="tab-item data-v-00133a24" bindtap="__e"><view class="{{['tab-in','data-v-00133a24',(currentIndex===index)?'active':'']}}">{{item}}</view></view></block></view>

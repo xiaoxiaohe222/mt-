@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "mt外卖",
+  "usingComponents": {
+    "search": "/componnets/index/Search",
+    "preference": "/componnets/index/Preference",
+    "delicacy": "/componnets/index/Delicacy",
+    "title": "/componnets/index/Title",
+    "takeout": "/componnets/index/Takeout"
+  }
+}
